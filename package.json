@@ -1,0 +1,14 @@
+{
+  "name": "conf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "mustache setting.json wp-config.mustache > wp-config.php"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}

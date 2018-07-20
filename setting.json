@@ -1,0 +1,7 @@
+{
+  "DB_NAME" : "wpdb",
+  "DB_USER" : "wpuser",
+  "DB_PASSWORD" : "wppassword",
+  "DB_HOST" : "wphost",
+  "TABLE_PREFIX":"wptableprfix"
+}
